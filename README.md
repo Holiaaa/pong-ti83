@@ -4,9 +4,9 @@ Implementation of PONG for the Ti83 PremiumCE calculator.
 
 ### Installation
 
-Download the files in **Releases** section (or download the whole repo in .zip)
+Download the files in the repos and paste the content of each in TI Connect Script Editor to send them in the calculator properly.
 
-Simply drag **PONG.8xp** and **PONGRES.8xp** into the calculator with TI Connect.
+No available file to download.
 
 ### How to play
 Launch **PONG.8xp** by selecting it or typing **progPONG**
