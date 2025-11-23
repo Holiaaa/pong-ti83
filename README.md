@@ -11,7 +11,7 @@ Simply drag **PONG.8xp** and **PONGRES.8xp** into the calculator with TI Connect
 ### How to play
 Launch **PONG.8xp** by selecting it or typing **progPONG**
 
-***/!\ Make sure you doens't have any function saved!!! Otherwise it will block the game! /!\***
+** /!\ Make sure you doens't have any function saved!!! Otherwise it will block the game! /!\ **
 
 To move your bar up just click on the button UP of the calculator
 
